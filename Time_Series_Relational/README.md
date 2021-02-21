@@ -1,4 +1,4 @@
-# Time Series in Relational Databases 
+## Time Series in Relational Databases 
 
-In this project the data will be analysed using PostgreSQL. 
+In this exercise time series data on temperature measurements will be analysed using PostgreSQL. 
 
